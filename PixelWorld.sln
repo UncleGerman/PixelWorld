@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PixelWorld", "PixelWorld\PixelWorld.csproj", "{5DC507D8-D902-4D93-9174-EDD4ADC91D9D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PixelWorld.Data", "PixelWorld.Data\PixelWorld.Data.csproj", "{30A106AD-BE9D-4CA6-9D25-D16D8B9435C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AppLogic", "AppLogic", "{851899D6-DC1A-48A9-84DB-774A20886A41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestLogic", "TestLogic", "{2052830E-F8E8-4701-8933-BE5BCC3CE9EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PixelWorld.Data.Tests", "PixelWorld.Data.Tests\PixelWorld.Data.Tests.csproj", "{4E86A55C-BBAC-4C51-A226-D885241076EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelWorld.Infrastructure", "PixelWorld.Infrastructure\PixelWorld.Infrastructure.csproj", "{19087A16-B2A2-4E04-97B8-A10E2B427CD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelWorld.Infrastructure.Tests", "PixelWorld.Infrastructure.Tests\PixelWorld.Infrastructure.Tests.csproj", "{35503C85-5234-4979-AFB5-F8FC98168BA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DC507D8-D902-4D93-9174-EDD4ADC91D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC507D8-D902-4D93-9174-EDD4ADC91D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC507D8-D902-4D93-9174-EDD4ADC91D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC507D8-D902-4D93-9174-EDD4ADC91D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A106AD-BE9D-4CA6-9D25-D16D8B9435C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A106AD-BE9D-4CA6-9D25-D16D8B9435C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A106AD-BE9D-4CA6-9D25-D16D8B9435C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A106AD-BE9D-4CA6-9D25-D16D8B9435C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E86A55C-BBAC-4C51-A226-D885241076EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E86A55C-BBAC-4C51-A226-D885241076EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E86A55C-BBAC-4C51-A226-D885241076EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E86A55C-BBAC-4C51-A226-D885241076EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19087A16-B2A2-4E04-97B8-A10E2B427CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19087A16-B2A2-4E04-97B8-A10E2B427CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19087A16-B2A2-4E04-97B8-A10E2B427CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19087A16-B2A2-4E04-97B8-A10E2B427CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35503C85-5234-4979-AFB5-F8FC98168BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35503C85-5234-4979-AFB5-F8FC98168BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35503C85-5234-4979-AFB5-F8FC98168BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35503C85-5234-4979-AFB5-F8FC98168BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{30A106AD-BE9D-4CA6-9D25-D16D8B9435C0} = {851899D6-DC1A-48A9-84DB-774A20886A41}
+		{4E86A55C-BBAC-4C51-A226-D885241076EE} = {2052830E-F8E8-4701-8933-BE5BCC3CE9EF}
+		{19087A16-B2A2-4E04-97B8-A10E2B427CD7} = {851899D6-DC1A-48A9-84DB-774A20886A41}
+		{35503C85-5234-4979-AFB5-F8FC98168BA7} = {2052830E-F8E8-4701-8933-BE5BCC3CE9EF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52AC5E37-CE51-4F1A-BDB7-8DE65874816C}
+	EndGlobalSection
+EndGlobal

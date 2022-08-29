@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BX6UJEq6ntv9FEUBwmIbIvxPdt3Dh3cV+oLts/ZaIftz9Le2DoSlCJN3yNUijwrBmMzS+1i8SzMAr82Uvrr8Mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\PixelWorldWeb\\PixelWorld\\PixelWorld\\PixelWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
