@@ -2,12 +2,13 @@
 
 namespace PixelWorld.Data.Entity
 {
-    public sealed class Order
+    internal sealed class Order
     {
-        public int Id { get; set; }
-        public decimal Price { get; set; }
-        public Item Item { get; set; }
-        public DateTime PublicationTime { get; set; }
-        public DateTime PublicationEndTime { get; set; }
+        internal int Id { get; set; }
+        internal decimal Price { get; set; }
+        internal User User { get; set; }
+        internal Item Item { get; set; }
+        internal DateTime PublicationTime { get; set; }
+        internal DateTime PublicationEndTime { get; set; }
     }
 }

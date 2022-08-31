@@ -51,7 +51,6 @@ namespace PixelWorld.Data.Repositories
             else
             {
                 var item = _dataBaseContext.Users.Find(id);
-
                 _dataBaseContext.Users.Remove(item);
             }
         }

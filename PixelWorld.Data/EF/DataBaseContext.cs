@@ -1,4 +1,5 @@
-﻿using PixelWorld.Data.Entity;
+﻿using PixelWorld.Data.EF.EntityConfiguration;
+using PixelWorld.Data.Entity;
 using System.Data.Entity;
 
 namespace PixelWorld.Data.EF
@@ -21,6 +22,13 @@ namespace PixelWorld.Data.EF
         {
             Database.Delete();
             Database.Create();
+        }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            modelBuilder.Configurations.Add(new ItemConfiguration());
+            modelBuilder.Configurations.Add(new OrderConfiguration());
+            modelBuilder.Configurations.Add(new UserConfiguration());
         }
     }
 }

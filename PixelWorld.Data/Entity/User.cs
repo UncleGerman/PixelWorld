@@ -2,13 +2,13 @@
 
 namespace PixelWorld.Data.Entity
 {
-    public sealed class User
+    internal sealed class User
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Password { get; set; }
-        public string Email { get; set; }
-        public IEnumerable<Item> Inventory { get; set; }
-        public IEnumerable<Order> Orders { get; set; }
+        internal int Id { get; set; }
+        internal string Name { get; set; }
+        internal string Password { get; set; }
+        internal string Email { get; set; }
+        internal ICollection<Item> Inventory { get; set; }
+        internal ICollection<Order> Orders { get; set; }
     }
 }

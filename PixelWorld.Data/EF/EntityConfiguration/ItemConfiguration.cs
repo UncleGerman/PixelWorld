@@ -7,6 +7,16 @@ namespace PixelWorld.Data.EF.EntityConfiguration
     {
         internal ItemConfiguration()
         {
+            EntityTypeConfiguration<Item> tableName = ToTable(tableName: nameof(Item));
+
+            tableName.HasKey(c => c.Id);
+
+            tableName.Property(c => c.Quantity).IsRequired();
+            tableName.Property(c => c.ItemType).IsRequired();
+
+            tableName.Property(c => c.Name)
+                                 .IsRequired()
+                                 .HasMaxLength(20);
         }
     }
 }

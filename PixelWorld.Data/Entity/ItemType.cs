@@ -1,6 +1,6 @@
 ﻿namespace PixelWorld.Data.Entity
 {
-    public enum ItemType
+    internal enum ItemType
     {
         Potion
     }
