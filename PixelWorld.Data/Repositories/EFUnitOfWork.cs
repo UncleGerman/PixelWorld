@@ -6,6 +6,7 @@ using System.Runtime.CompilerServices;
 
 [assembly:InternalsVisibleTo("PixelWorld.Data.Tests")]
 [assembly: InternalsVisibleTo("PixelWorld.Infrastructure")]
+[assembly: InternalsVisibleTo("PixelWorld.Infrastructure.Tests")]
 namespace PixelWorld.Data.Repositories
 {
     internal sealed class EFUnitOfWork : IUnitOfWork

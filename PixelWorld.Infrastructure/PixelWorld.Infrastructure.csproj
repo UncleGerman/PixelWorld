@@ -8,8 +8,4 @@
     <ProjectReference Include="..\PixelWorld.Data\PixelWorld.Data.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Interfaces\" />
-  </ItemGroup>
-
 </Project>
