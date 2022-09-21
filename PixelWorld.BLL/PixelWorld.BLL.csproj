@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PixelWorld.DAL\PixelWorld.DAL.csproj" />
+    <ProjectReference Include="..\PixelWorld.Infrastructure\PixelWorld.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Interfaces\Entity\" />
+  </ItemGroup>
+
+</Project>
