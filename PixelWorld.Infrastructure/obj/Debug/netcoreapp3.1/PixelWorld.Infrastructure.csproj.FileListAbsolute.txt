@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.Infrastructure\bin\Debug\netcoreapp3.1\PixelWorld.Infrastructure.deps.json
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.Infrastructure\bin\Debug\netcoreapp3.1\PixelWorld.Infrastructure.runtimeconfig.json
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.Infrastructure\bin\Debug\netcoreapp3.1\PixelWorld.Infrastructure.runtimeconfig.dev.json
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.Infrastructure\bin\Debug\netcoreapp3.1\PixelWorld.Infrastructure.dll
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.Infrastructure\bin\Debug\netcoreapp3.1\PixelWorld.Infrastructure.pdb
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.Infrastructure\obj\Debug\netcoreapp3.1\PixelWorld.Infrastructure.csprojAssemblyReference.cache
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.Infrastructure\obj\Debug\netcoreapp3.1\PixelWorld.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.Infrastructure\obj\Debug\netcoreapp3.1\PixelWorld.Infrastructure.AssemblyInfo.cs
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.Infrastructure\obj\Debug\netcoreapp3.1\PixelWorld.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.Infrastructure\obj\Debug\netcoreapp3.1\PixelWorld.Infrastructure.csproj.CopyComplete
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.Infrastructure\obj\Debug\netcoreapp3.1\PixelWorld.Infrastructure.dll
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.Infrastructure\obj\Debug\netcoreapp3.1\PixelWorld.Infrastructure.pdb
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.Infrastructure\obj\Debug\netcoreapp3.1\PixelWorld.Infrastructure.genruntimeconfig.cache
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.Infrastructure\bin\Debug\netcoreapp3.1\PixelWorld.DAL.dll
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.Infrastructure\bin\Debug\netcoreapp3.1\PixelWorld.DAL.pdb

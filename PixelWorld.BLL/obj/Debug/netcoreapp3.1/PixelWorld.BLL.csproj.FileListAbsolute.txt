@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.BLL\bin\Debug\netcoreapp3.1\PixelWorld.BLL.deps.json
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.BLL\bin\Debug\netcoreapp3.1\PixelWorld.BLL.dll
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.BLL\bin\Debug\netcoreapp3.1\PixelWorld.BLL.pdb
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.BLL\bin\Debug\netcoreapp3.1\PixelWorld.DAL.dll
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.BLL\bin\Debug\netcoreapp3.1\PixelWorld.Infrastructure.dll
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.BLL\bin\Debug\netcoreapp3.1\PixelWorld.DAL.pdb
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.BLL\bin\Debug\netcoreapp3.1\PixelWorld.Infrastructure.pdb
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.BLL\obj\Debug\netcoreapp3.1\PixelWorld.BLL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.BLL\obj\Debug\netcoreapp3.1\PixelWorld.BLL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.BLL\obj\Debug\netcoreapp3.1\PixelWorld.BLL.AssemblyInfo.cs
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.BLL\obj\Debug\netcoreapp3.1\PixelWorld.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.BLL\obj\Debug\netcoreapp3.1\PixelWorld.BLL.csproj.CopyComplete
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.BLL\obj\Debug\netcoreapp3.1\PixelWorld.BLL.dll
+C:\Users\user\Desktop\PixelWorldWeb\PixelWorld\PixelWorld.BLL\obj\Debug\netcoreapp3.1\PixelWorld.BLL.pdb
